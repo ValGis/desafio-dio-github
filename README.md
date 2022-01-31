@@ -2,4 +2,4 @@
 
 Meu primeiro repositorio  criado para o desafio.
 ## Links Úteis
-[Síntaxe Básica Markdown](https://www.markdownguide.org.basic-syntax/)
+[Síntaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
