@@ -1,2 +1,2 @@
 # desafio-dio-github
-meu primeiro repositório desafio de Projeto Git/GitHub
+meu primeiro reposit´rio do Projeto  Git/GitHub.
