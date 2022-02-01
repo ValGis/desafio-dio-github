@@ -1,0 +1,22 @@
+# Estrutura de dados
+
+- ##### Vetores e Matrizes ->*São estruturas de dados simples que podem auxiliar quando há muitas variáveis do mesmo tipo em um algoritmo.*
+
+- ##### Registro -> *São estruturas que permitem armazenar mais de um tipo de dados. Ex: CPF, número, texto,data, caractere.*
+
+- ##### Vetor -> *É uma estrutura de dados indexada que pode armazenar uma determinada quantidade de valores ao mesmo tempo.*
+
+- ##### Listas -> *Estrutura de dados do tipo lista, armazena um determinado tipo em uma ordem específica. A diferença entre <u>Listas</u> e <u>Arrays</u> é a de que: <u>Listas</u> tem tamanho ajustável e <u>Arrays</u> tem tamanho fixo.*
+
+- ##### Pilhas-> *Estrutura que serve como coleção de elementos e permite acesso somente a um item de dados armazenados. Acesso restrito: Item só pode ser lido ou removido um por vez. *Tipos de Pilhas: LIFO ou UEPS(último que entra, primeiro que sai) e FIFO ou PEPS(primeiro que entra, primeiro que sai).
+
+- ##### Filas-> *Admite remoção de elementos e inserção de novos sujeita à regra: O elemento removido é o que está na estrutura há mais tempo, o primeiro inserido na fila é o primeiro a ser removido seguindo o conceito FIFO.*
+
+- ##### Árvores -> *Organiza seus elementos de forma hierárquica, onde existe um elemento que fica no topo da árvore, chamado de raiz e existem os elementos subordinados a ele que são chamados de <u>nós</u> ou <u>folhas</u>(facilita a busca).*
+
+- ##### Tabela Hash ->*Associa chaves de pesquisa a valores. Hashing-> É uma generalização de array, porém usa uma função denominada hashing para espalhar os elementos, fazendo com que os mesmos fiquem de forma não ordenada dentro do array que define a tabela. Permite associar valores as chaves. <u>Valores:</u> É a posição ou índice onde o elemento se encontra. <u>Chave:</u> Parte da informação que compõe o elemento a ser manipulado.*
+
+- ##### Grafos -> *São estruturas que permitem programar a relação entre objetos. Os objetos são vértices ou <u>**nós**</u> do grafo. Os relacionamentos são <u>arestas</u>.*
+
+  
+
